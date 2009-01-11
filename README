@@ -1,4 +1,15 @@
 Вск Янв 11 13:02:42 EET 2009
 
-/t - автоматизированые тесты 
-/b - база 
+.
+|-- README
+|-- b                           # база
+|   |-- 05.01.09.gz
+|   `-- README
+`-- t                           # автоматизированные тесты
+    |-- 0basic.t
+    |-- 1writelog.t
+    |-- 2msgrand.t
+    |-- 3checkacc.t
+    `-- 4sendpm.t
+
+2 directories, 8 files
